@@ -2,7 +2,7 @@
 
 🚀 Passionate apprentice software engineer | Coding enthusiast | Lifelong learner
 
-🔭 I’m currently working on **A school management full-stack application**
+🔭 I’m currently working on **a cross-platform fitness and workout log app**.
 
 🌱 I’m currently learning **React, React Native, UI/UX Design**
 
