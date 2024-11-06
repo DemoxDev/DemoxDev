@@ -4,15 +4,17 @@
 
 🔭 I’m currently working on **a cross-platform fitness and workout log app**.
 
-🌱 I’m currently learning **React, React Native, UI/UX Design**
+🌱 I’m currently learning **C, Memory management, Expression evaluation, etc!**
 
-👯 I’m looking to collaborate on **open source emulator projects**, **applications or software that use generative AI**, **anywhere else I can be useful, as long as it evokes my passion**
+👯 I’m looking to collaborate on **open source emulator projects**, **applications or software that use generative AI**
 
-💬 Ask me about **the latest hardware trends, ARM architecture, recompilation of old software for newer platforms**
+💬 Ask me about **the latest hardware trends, ARM architecture, recompilation of old software for newer platforms, UI design philosophy**
+
+❌ DON'T ask me about **Memory Management, C, Compilation** (It's a touchy subject..)
 
 📫 How to reach me: **christianmesina2002@gmail.com**
 
-⚡ Fun fact: **I bench 90kg**
+⚡ Fun fact: **I bench 100kg**
 
 ---
 
