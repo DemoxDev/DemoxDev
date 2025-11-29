@@ -42,6 +42,9 @@
 - **[R&D at CGI France]** – [Transforming a scientific article into a real product - Data governing in data lakes - GDPR]
 - **[Data Archival and Tracability System at (A major player in the optics field)]** – [A set of services, APIs and Flask application for ensuring proper access, archival, encryption, compression and tracability of some internal data streams]
 - **[Sales aid website at (A major player in the optics field)]** – [A platform accessible by opticians containing product demos, information about products (designs, treatments, different materials) including API development, front-end development using NextJS (React) and Docker image creation using Dockerfiles and docker compose for enhanced deployment on different platforms]
-
+- **[Healthcare Gift Compliance Web Application at (A major player in the optics field)]** – [A web application ensuring compliance with the French anti-gift law, featuring request submission, N+1 approval workflow via OTP and token, document validation, and status tracking, built with Flask, Python, deployed with Docker]
+- **[SMT IV NextJS](https://demoxdev.github.io/smt4_react/)** – [A web-based recreation of the Shin Megami Tensei IV battle interface and mechanics, featuring authentic UI, turn-based combat, and the Press Turn system, built with Next.js 16, React 19, and Tailwind CSS 4]
+  <br>
+  <img src="smt4-react-screenshot.png" alt="SMT IV NextJS Screenshot" width="300"/>
 
 Let's connect and build the future together! 🤝
