@@ -16,6 +16,8 @@
 
 ⚡ Fun fact: **I bench 100kg**
 
+🖵 [My portfolio](https://portfolio.demox.page)
+
 ---
 
 ### 🛠️ My Tech Toolbox
@@ -29,10 +31,6 @@
 - Java ♨️
 - Spring Boot 🍃
 - MySQL / SQLite
-
-### 📈 My GitHub Stats
-
-![DemoxDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemoxDev)
 
 ### 🏆 Some of My Projects
 
